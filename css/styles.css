@@ -1,32 +1,35 @@
-body{
-  margin:0;
-  background-color: #afdfe8;
-  text-align: center;
+body {
+    margin: 0;
+    background-color: #afdfe8;
+    text-align: center;
+}
 
-}
-h1{
-}
-.top-container{
+.top-container {
     margin: auto;
     position: relative;
     top: 50px;
 }
- .middle-container{
+
+.middle-container {
     margin: auto;
- }
- .bottom-container{
+}
+
+.bottom-container {
     margin: auto;
- }
-.cloud-right{
+}
+
+.cloud-right {
     position: absolute;
     right: 300px;
 }
-.cloud-left{
+
+.cloud-left {
     position: absolute;
     left: 300px;
     top: 200px;
 }
-.mountain{
+
+.mountain {
     position: relative;
     top: 100px;
 }
